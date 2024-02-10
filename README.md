@@ -1,6 +1,6 @@
-# Hello!
+# Hi!👋
 
-## Langs & Tools
+## Langs & Tools ⚒️
 [![Java](https://img.shields.io/badge/Java-2015~-blue?style=for-the-badge&logo=java)]()
 [![Python](https://img.shields.io/badge/Python-2018~-blue?style=for-the-badge&logo=python)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-2019~-blue?style=for-the-badge&logo=C%2B%2B)]()
@@ -28,20 +28,14 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-2015~-blue?style=for-the-badge&logo=EclipseIDE)]()
 [![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2018~-blue?style=for-the-badge&logo=IntelliJ%20IDEA)]()
 
-## Works
+## Works 
 
-### ALKA (Online Escape Game)
-- Backend system(Kotlin)
+### 光なき終の世界からの脱出 公式サイト
+[![光なき終の世界からの脱出](http://endworld.calette.net/assets/img/key-bg.webp)](https://endworld.calette.net)
 
-### WordWolves (Online Word Wolf Event)
-- Backend system(Kotlin)
+and more
 
-### 光なき終の世界からの脱出 (Escape Game)
-- Official Web Site([Here](https://endworld.calette.net))
-
-And more... ( at other accounts...)
-
-## Stats
+## Stats 📊
 <p align="left"> 
   <img alt="Top languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hrz&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=5hrz&theme=onedark&show_icons=ture" />
